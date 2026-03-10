@@ -1,2 +1,17 @@
 # util-expert
-Util Expert - Built with ❤️
+
+Util Expert - A comprehensive utility tool.
+
+## Features
+- Feature 1
+- Feature 2
+
+## Technical Stack
+- Python
+
+## Usage
+Clone this repository and follow the instructions in the README to use this tool.
+
+## Future Plans
+- Add more utilities
+- Improve documentation
